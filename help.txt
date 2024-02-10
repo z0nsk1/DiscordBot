@@ -1,0 +1,13 @@
+Komennot:
+$apua = Apua
+$luikaus [nimi] = Random luikaus, joka on jonkun nakkipipolaisen suusta luikahtanut, argumentiksi voi antaa nimen, kenen quotin haluaa
+$dice [luku] = Heitetään noppaa! Argumenttina voi antaa luvun x, luku arvotaan väliltä 1-x
+$pvm = Kertoo päivämäärän, kellonajan ja viikkonumeron
+$temp [kaupunki] = Kertoo annetun kaupungin tuoreimman lämpötilan ja säätilaa kuvaavan kuvan, default(ei argumenttia): Jyväskylä
+$members = Serverin käyttäjien lukumäärä, EI TOIMI VIELÄ OIKEIN
+$shtpost = Cursed images
+$info = Turhaa infoa
+
+Kokeile:
+$yee
+$lenny
