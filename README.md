@@ -1,0 +1,1 @@
+Kaveriporukan Discord-serverille tehty botti. Botti on toteutettu Python:lla. Bottia kutsutaan komennoilla, esim. $members. Botti osaa muun muassa kertoa nykyisen lämpötilan ja lähettää säätä kuvaavan kuvan halutusta kaupungista tai kunnasta, joka löytyy Open Weather API:sta. help.txt -tiedostosta näkee kaikki botin ymmärtämät komennot ja niiden kuvauksen
