@@ -16,7 +16,7 @@ import datetime
 import os
 from dotenv import load_dotenv
 
-versio = "08.02.2024"
+versio = "10.02.2024"
 
 # botti Discord -servereille
 
