@@ -7,8 +7,8 @@ Botille toteutetut komennot:
 - <strong>lenny:</strong> tulostaa chattiin lenny-facen ( ͡° ͜ʖ ͡°) (tätä on aina ärsyttävä kaivaa Googlesta, joten nyt se on helpompaa)
 - <strong>bingobangobongo:</strong> botti vastaa "Bish Bash Bosh!". Legendaarinen lausahdus, joka on ainakin Counter Striken pelaajille tuttu.
 - <strong>luikaus:</strong> tulostaa koneella sijaitsevasta tiedostosta satunnaisen, hassun hauskan lausahduksen, joka on  jonkun meidän kaveriporukan suusta joskus päässyt lipsahtamaan. Näitä olemme keränneet vuosia.
-- <strong>pvm:</strong> tulostaa nykyisen päivämäärän muodossa "viikonpäivä, dd.mm.yyyy klo hh:mm viikko: <vknro>
-<strong>dice <luku>: </strong> nopanheitto! Botti arpoo ja tulostaa luvun 1 ja argumenttina annetun luvun väliltä. Jos argumenttia ei anneta, arvotaan luku väliltä 1 ja 6, kuten tavallisessa nopassa
+- <strong>pvm:</strong> tulostaa nykyisen päivämäärän muodossa "viikonpäivä dd.mm.yyyy klo hh:mm viikko: <vknro>
+- <strong>dice <luku>: </strong> nopanheitto! Botti arpoo ja tulostaa luvun 1 ja argumenttina annetun luvun väliltä. Jos argumenttia ei anneta, arvotaan luku väliltä 1 ja 6, kuten tavallisessa nopassa
 - <strong>info:</strong> tulostaa botin version, tekijän (minä) sekä millä ohjelmointikielellä botti on tehty
 - <strong>yee:</strong> tulostaa legendaarisen yee-kuvan
 
