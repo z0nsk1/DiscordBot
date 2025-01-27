@@ -3,7 +3,7 @@ Kaveriporukan Discord-serverille tehty botti. Botti on toteutettu Python:lla. Bo
 Botille toteutetut komennot:  
 - <strong>temp <kaupunki>:</strong> tulostaa argumenttina annettavan kaupungin ajankohtaisen sään sekä säätä kuvaavan kuvan. Jos kaupunkia ei annetta, tulostetaan oletusarvoisesti Jyväskylän sää. Säätiedot haetaan OpenWeather-API:n kautta. Sää-API:n kutsuminen tapahtuu koordinaateilla, joten ensin kutsutaan toista API:a kaupungin nimellä, jotta saadaan sen koordinaatit. Tämän jälkeen voidaan koordinaateilla kutsua Sää-API:a.
 - <strong>shtpost:</strong> tulostaa koneella sijaitsevasta kuvakansiosta satunnaisesti valitun kuvan
-- <strong>apua:</strong>: tulostaa koneella sijaitsevan tekstitiedoston sisällön, jossa on ohjeet botin käyttöön sekä lista sen ymmärtämistä komennoista
+- <strong>apua:</strong> tulostaa koneella sijaitsevan tekstitiedoston sisällön, jossa on ohjeet botin käyttöön sekä lista sen ymmärtämistä komennoista
 - <strong>lenny:</strong> tulostaa chattiin lenny-facen ( ͡° ͜ʖ ͡°) (tätä on aina ärsyttävä kaivaa Googlesta, joten nyt se on helpompaa)
 - <strong>bingobangobongo:</strong> botti vastaa "Bish Bash Bosh!". Legendaarinen lausahdus, joka on ainakin Counter Striken pelaajille tuttu.
 - <strong>luikaus:</strong> tulostaa koneella sijaitsevasta tiedostosta satunnaisen, hassun hauskan lausahduksen, joka on  jonkun meidän kaveriporukan suusta joskus päässyt lipsahtamaan. Näitä olemme keränneet vuosia.
