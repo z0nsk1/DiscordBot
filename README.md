@@ -12,7 +12,7 @@ Botille toteutetut komennot:
 - <strong>info:</strong> tulostaa botin version, tekijän (minä) sekä millä ohjelmointikielellä botti on tehty
 - <strong>yee:</strong> tulostaa legendaarisen yee-kuvan
 
-Komennoissa, jotka voivat ottaa argumentin, on myös virheenkäsittely, jos argumentti ei ole oikeaa muotoa. Jos komentoa ei ole olemassa, käsitellään se virhetilanteena ja botti vastaa, että "Komentoa ei ole olemassa". 
+Komennoissa, jotka voivat ottaa argumentin, on myös virheenkäsittely, jos argumentti ei ole oikeaa muotoa. Jos komentoa ei ole olemassa, käsitellään se virhetilanteena ja botti vastaa että "Komentoa ei ole olemassa". 
   
 Esimerkki temp-komennon käytöstä:  
   
