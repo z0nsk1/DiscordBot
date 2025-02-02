@@ -1,7 +1,7 @@
 Kaveriporukan Discord-serverille tehty botti. Botti on toteutettu Python:lla. Bottia kutsutaan Discord-viestinä annettavana komentona, esim. $members. Ennen komentosanaa pitää käyttää merkkiä '$', jotta botti ymmärtää sen komennoksi.  
 
 Botille toteutetut komennot:  
-- <strong>temp (temperature) <kaupunki>:</strong> tulostaa argumenttina annettavan kaupungin ajankohtaisen sään sekä säätä kuvaavan kuvan. Jos kaupunkia ei annetta, tulostetaan oletusarvoisesti Jyväskylän sää. Säätiedot haetaan OpenWeather-API:n kautta. Sää-API:n kutsuminen tapahtuu koordinaateilla, joten ensin kutsutaan toista API:a kaupungin nimellä, jotta saadaan sen koordinaatit. Tämän jälkeen voidaan koordinaateilla kutsua Sää-API:a.
+- <strong>temp (temperature) <kaupunki>:</strong> tulostaa argumenttina annettavan kaupungin ajankohtaisen sään sekä säätä kuvaavan kuvan. Jos kaupunkia ei anneta, tulostetaan oletusarvoisesti Jyväskylän sää. Säätiedot haetaan OpenWeather-API:n kautta. Sää-API:n kutsuminen tapahtuu koordinaateilla, joten ensin kutsutaan toista API:a kaupungin nimellä, jotta saadaan sen koordinaatit. Tämän jälkeen voidaan koordinaateilla kutsua Sää-API:a.
 - <strong>shtpost:</strong> tulostaa koneella sijaitsevasta kuvakansiosta satunnaisesti valitun kuvan
 - <strong>apua:</strong> tulostaa koneella sijaitsevan tekstitiedoston sisällön, jossa on ohjeet botin käyttöön sekä lista sen ymmärtämistä komennoista
 - <strong>lenny:</strong> tulostaa chattiin lenny-facen ( ͡° ͜ʖ ͡°) (tätä on aina ärsyttävä kaivaa Googlesta, joten nyt se on helpompaa)
